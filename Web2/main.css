@@ -1,0 +1,18 @@
+body{
+    font-family: Microsoft JhengHei;
+}
+.one{
+    text-align: center;
+    margin: center;
+    font-size: 20px; 
+    background-color: bisque;
+    background-position: center center;
+    border-color: darkred;
+    border-style: double;
+    border-width:7px;
+    border-radius:3vh;
+    float: left;
+    
+    
+
+}
