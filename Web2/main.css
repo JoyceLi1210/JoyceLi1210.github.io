@@ -3,7 +3,7 @@ body{
 }
 .one{
     text-align: center;
-    margin: center;
+/*    margin: 200px 200px;*/
     font-size: 20px; 
     background-color: bisque;
     background-position: center center;
@@ -11,8 +11,11 @@ body{
     border-style: double;
     border-width:7px;
     border-radius:3vh;
-    float: left;
+    width: 300px;
+    float: inherit;
     
-    
-
+}
+.ps{
+    text-align: center;
+    font-size: 13px; 
 }

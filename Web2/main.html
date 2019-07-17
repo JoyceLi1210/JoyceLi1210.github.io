@@ -3,45 +3,50 @@
 
 <head>
     <meta charset="UTF-8">
+    
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
     <link rel="stylesheet" href="main.css">
-
+    <link rel="stylesheet" href="main.php">
+   
     <title>登入/註冊表單</title>
 </head>
 
 <body background="http://file06.16sucai.com/2017/0915/b49b5cb96d139e7db45dede3f82c562d.jpg">
     <div class="one ">
-        <form class="" action="main.php" method="post">
-            <p><b> 會員註冊</b></p>
-            <div class="">
+        <form class="form" action="main.php" method="post">
+            <h4>會員註冊</h4><br>
+            <div class="two">
                 <p>
-                    <b>Username </b><input class="input" type="text" name="username">
+                    <input class="input" type="text" name="username" placeholder="Username"><br>
+                    <font class="ps">*如已註冊,輸入<u>Username</u>&amp;<u>Password</u>即可</font>
+                </p>
+                <p>
+                    <input class="input" type="password" name="password" placeholder="Password">
                 </p><br>
                 <p>
-                    <b>Password </b><input class="input" type="password" name="password">
-                </p><br>
-                <p>
-                    <b>E-mail </b><input class="input" type="email" name="email">
+                    <input class="input" type="email" name="email" placeholder="E-mail ">
                 </p><br>
                 <p>
                     <b>Gender </b>
-                    <input name="row" type="radio" value="50">男
-                    <input name="row" type="radio" value="50">女
-                    <input name="row" type="radio" value="50">彩虹
+                    <input name="gender" type="radio" value="Man">男
+                    <input name="gender" type="radio" value="Woman">女
                 </p><br>
                 <p>
                     <b>Favorite color </b>
                     <input class="input" type="color" name="color">
                 </p>
-            </div>
-
+            </div><br>
+            
             <div class="">
-                <input class="btn-lg" type="submit" name="signup" value="Login">
-                <input class="btn-lg" type="submit" name="signup" value="Register">
+                <input class="btn-lg" type="submit" name="Login" value="Login">
+                <input class="btn-lg" type="submit" name="Register" value="Register" >
             </div>
-
+            <br>
         </form>
     </div>
 </body>
