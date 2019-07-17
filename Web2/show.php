@@ -20,8 +20,7 @@
         session_start();
         $username = $_SESSION["username"];
 
-        if($result->num_rows > 0){
-            
+        if($result->num_rows > 0){        
             while($row = $result->fetch_assoc())
             {
                 if($username == $row["username"]){
