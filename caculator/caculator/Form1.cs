@@ -23,49 +23,89 @@ namespace caculator
 
         private void Number_Click(object sender, EventArgs e)
         {
-            if(result.Text == "0" or operation_pressed){
+            if(result.Text == "0" || operation_pressed){
+                result.Clear();
             }
+            Button b = (Button)sender;
+            result.Text += b.Text;
         }
 
         private void Zero_Click(object sender, EventArgs e)
         {
-
+            if (result.Text == "0")
+            {
+                result.Clear();
+            }
+            result.Text += "0";
         }
 
         private void Dot_Click(object sender, EventArgs e)
         {
+            if (result.Text.Contains("."))
+            {
 
+            }
+            else
+            {
+                result.Text += ".";
+            }
         }
 
         private void Operation_Click(object sender, EventArgs e)
         {
+            Button b = (Button)sender;
+            operation = b.Text;
+            operation_pressed = true;
+            PreResult.Text = result.Text;
 
+            if(result.Text != "")
+            {
+                value = Double.Parse(result.Text);
+            }
         }
 
         private void Clear_click(object sender, EventArgs e)
         {
+            result.Clear();
+            result.Text = "0";
+        }
 
+        private void Clear_All_Click(object sender, EventArgs e)
+        {
+            result.Text = "0";
+            PreResult.Text = "";
+            value = 0;
+            result.Clear();
         }
 
         private void Enter_Click(object sender, EventArgs e)
         {
-   
-            switch (operaion)
+            switch (operation)
             {
-                case '+':
-                    result.Text = "" + (op1 + op2);
+                case "+":
+                    result.Text = (value + Double.Parse(result.Text)).ToString();
                     break;
-                case '-':
-                    result.Text = "" + (op1 - op2);
+
+                case "-":
+                    result.Text = (value - Double.Parse(result.Text)).ToString();
                     break;
-                case '*':
-                    result.Text = "" + (op1 * op2);
+
+                case "*":
+                    result.Text = (value * Double.Parse(result.Text)).ToString();
                     break;
-                case '/':
-                    result.Text = "" + (op1 / op2);
+
+                case "/":
+                    result.Text = (value / Double.Parse(result.Text)).ToString();
+                    break;
+
+                default:
                     break;
 
             }
+            operation_pressed = false;
+            PreResult.Text = "";
         }
+
+        
     }
 }
