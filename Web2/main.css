@@ -3,16 +3,14 @@ body{
 }
 .one{
     text-align: center;
-    margin: center;
+    margin:5% 0vh 0vh 0%;
     font-size: 20px; 
-    background-color: bisque;
-    background-position: center center;
-    border-color: darkred;
-    border-style: double;
-    border-width:7px;
-    border-radius:3vh;
-    float: left;
+    width:inherit;
+    height: auto;
     
-    
-
 }
+.ps{
+    text-align: center;
+    font-size: 13px; 
+}
+/*
