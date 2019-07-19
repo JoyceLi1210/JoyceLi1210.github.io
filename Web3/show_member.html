@@ -1,0 +1,46 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>資料庫讀取顯示</title>
+</head>
+ 
+<body>
+   
+    <table width="500" border="2">
+      <tr>
+        <td>Username</td>
+        <td>E-mail</td>
+        <td>Gender</td>
+        <td>Favorite color</td>
+      </tr>
+      
+    <?php
+        $server="localhost";
+        $db_username="root";
+        $db_password="";
+        $db = "try1";
+        
+        $con = mysqli_connect($server,$db_username,$db_password,$db);
+
+        if(!$con){
+            die("can't connect".mysqli_error());      
+        }
+        else{
+            $sql = "SELECT * FROM infor";
+        }
+        for($i=1;$i<mysql_num_rows($sql);$i++){
+            $rs=mysql_fetch_row($sql);
+    ?>
+          <tr>
+            <td><?php echo $rs[1]?></td>
+            <td><?php echo $rs[2]?></td>
+            <td><?php echo $rs[3]?></td>
+            <td><?php echo $rs[4]?></td>
+          </tr>
+        <?php
+        }
+        ?>
+    </table>
+    <p>&nbsp;</p>
+</body>
+</html>

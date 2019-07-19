@@ -41,14 +41,11 @@ namespace caculator
 
         private void Dot_Click(object sender, EventArgs e)
         {
-            if (result.Text.Contains("."))
-            {
-
-            }
-            else
+            if (!result.Text.Contains("."))
             {
                 result.Text += ".";
             }
+            
         }
 
         private void Operation_Click(object sender, EventArgs e)
@@ -106,6 +103,9 @@ namespace caculator
             PreResult.Text = "";
         }
 
-        
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

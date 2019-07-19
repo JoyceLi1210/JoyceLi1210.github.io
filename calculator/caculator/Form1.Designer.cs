@@ -52,7 +52,8 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(24, 330);
+            this.button1.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button1.Location = new System.Drawing.Point(19, 259);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 71);
@@ -63,7 +64,8 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(107, 330);
+            this.button2.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button2.Location = new System.Drawing.Point(102, 259);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 71);
@@ -74,7 +76,8 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(189, 330);
+            this.button3.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button3.Location = new System.Drawing.Point(184, 259);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 71);
@@ -85,7 +88,8 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(24, 251);
+            this.button4.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button4.Location = new System.Drawing.Point(19, 180);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 71);
@@ -96,7 +100,8 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(107, 251);
+            this.button5.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button5.Location = new System.Drawing.Point(102, 180);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 71);
@@ -107,7 +112,8 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(189, 251);
+            this.button6.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button6.Location = new System.Drawing.Point(184, 180);
             this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 71);
@@ -118,7 +124,8 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(24, 172);
+            this.button7.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button7.Location = new System.Drawing.Point(19, 101);
             this.button7.Margin = new System.Windows.Forms.Padding(4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 71);
@@ -129,7 +136,8 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(107, 172);
+            this.button8.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button8.Location = new System.Drawing.Point(102, 101);
             this.button8.Margin = new System.Windows.Forms.Padding(4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(75, 71);
@@ -140,7 +148,8 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(189, 172);
+            this.button9.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button9.Location = new System.Drawing.Point(184, 101);
             this.button9.Margin = new System.Windows.Forms.Padding(4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 71);
@@ -151,7 +160,8 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(24, 409);
+            this.button10.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button10.Location = new System.Drawing.Point(19, 338);
             this.button10.Margin = new System.Windows.Forms.Padding(4);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(157, 71);
@@ -162,7 +172,7 @@
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(189, 409);
+            this.button11.Location = new System.Drawing.Point(184, 338);
             this.button11.Margin = new System.Windows.Forms.Padding(4);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(75, 71);
@@ -173,7 +183,8 @@
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(272, 172);
+            this.button12.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button12.Location = new System.Drawing.Point(267, 101);
             this.button12.Margin = new System.Windows.Forms.Padding(4);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(75, 71);
@@ -184,7 +195,8 @@
             // 
             // button13
             // 
-            this.button13.Location = new System.Drawing.Point(272, 251);
+            this.button13.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button13.Location = new System.Drawing.Point(267, 180);
             this.button13.Margin = new System.Windows.Forms.Padding(4);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(75, 71);
@@ -195,7 +207,8 @@
             // 
             // button14
             // 
-            this.button14.Location = new System.Drawing.Point(272, 330);
+            this.button14.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button14.Location = new System.Drawing.Point(267, 259);
             this.button14.Margin = new System.Windows.Forms.Padding(4);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(75, 71);
@@ -206,7 +219,8 @@
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(272, 409);
+            this.button15.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button15.Location = new System.Drawing.Point(267, 338);
             this.button15.Margin = new System.Windows.Forms.Padding(4);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(75, 71);
@@ -217,7 +231,8 @@
             // 
             // button16
             // 
-            this.button16.Location = new System.Drawing.Point(355, 330);
+            this.button16.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button16.Location = new System.Drawing.Point(350, 259);
             this.button16.Margin = new System.Windows.Forms.Padding(4);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(75, 150);
@@ -228,7 +243,8 @@
             // 
             // button17
             // 
-            this.button17.Location = new System.Drawing.Point(355, 172);
+            this.button17.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button17.Location = new System.Drawing.Point(350, 101);
             this.button17.Margin = new System.Windows.Forms.Padding(4);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(75, 71);
@@ -239,11 +255,11 @@
             // 
             // result
             // 
-            this.result.Font = new System.Drawing.Font("新細明體", 16F);
-            this.result.Location = new System.Drawing.Point(24, 124);
+            this.result.Font = new System.Drawing.Font("新細明體", 20F);
+            this.result.Location = new System.Drawing.Point(20, 40);
             this.result.Margin = new System.Windows.Forms.Padding(4);
             this.result.Name = "result";
-            this.result.Size = new System.Drawing.Size(404, 39);
+            this.result.Size = new System.Drawing.Size(404, 47);
             this.result.TabIndex = 17;
             this.result.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -251,7 +267,7 @@
             // 
             this.PreResult.AutoSize = true;
             this.PreResult.Font = new System.Drawing.Font("新細明體", 16F);
-            this.PreResult.Location = new System.Drawing.Point(32, 131);
+            this.PreResult.Location = new System.Drawing.Point(27, 60);
             this.PreResult.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.PreResult.Name = "PreResult";
             this.PreResult.Size = new System.Drawing.Size(0, 27);
@@ -259,7 +275,8 @@
             // 
             // button18
             // 
-            this.button18.Location = new System.Drawing.Point(355, 251);
+            this.button18.Font = new System.Drawing.Font("新細明體", 16F);
+            this.button18.Location = new System.Drawing.Point(350, 180);
             this.button18.Margin = new System.Windows.Forms.Padding(4);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(75, 71);
@@ -272,7 +289,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(452, 529);
+            this.ClientSize = new System.Drawing.Size(452, 453);
             this.Controls.Add(this.button18);
             this.Controls.Add(this.PreResult);
             this.Controls.Add(this.result);
@@ -295,7 +312,8 @@
             this.Controls.Add(this.button1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Calculate";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
