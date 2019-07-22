@@ -10,7 +10,7 @@ namespace calculator
   
     public partial class calculator : Form
     {
-        bool pree = false;
+        bool press = false;
 
         public calculator()
         {
@@ -20,7 +20,7 @@ namespace calculator
         private void Number_click(object sender, EventArgs e)
         {
 
-            if( pree  == true) 
+            if( press  == true) 
             {
                 preorder_print.Text = "";
                 postorder_print.Text = "";
@@ -71,7 +71,7 @@ namespace calculator
 
         private void Enter_click(object sender, EventArgs e)
         {
-            pree = true;
+            press = true;
 
             //算式拆解
             string[] words = formula_print.Text.Split(' ');
