@@ -318,7 +318,7 @@
             this.label1.Font = new System.Drawing.Font("標楷體", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label1.Location = new System.Drawing.Point(524, 64);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(108, 44);
+            this.label1.Size = new System.Drawing.Size(107, 43);
             this.label1.TabIndex = 32;
             this.label1.Text = "前序";
             // 
@@ -328,7 +328,7 @@
             this.label2.Font = new System.Drawing.Font("標楷體", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label2.Location = new System.Drawing.Point(524, 160);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(108, 44);
+            this.label2.Size = new System.Drawing.Size(107, 43);
             this.label2.TabIndex = 33;
             this.label2.Text = "後序";
             // 
@@ -338,7 +338,7 @@
             this.label4.Font = new System.Drawing.Font("標楷體", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label4.Location = new System.Drawing.Point(509, 259);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(152, 44);
+            this.label4.Size = new System.Drawing.Size(151, 43);
             this.label4.TabIndex = 35;
             this.label4.Text = "十進位";
             // 
@@ -348,7 +348,7 @@
             this.label5.Font = new System.Drawing.Font("標楷體", 25.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label5.Location = new System.Drawing.Point(509, 355);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(152, 44);
+            this.label5.Size = new System.Drawing.Size(151, 43);
             this.label5.TabIndex = 36;
             this.label5.Text = "二進位";
             // 

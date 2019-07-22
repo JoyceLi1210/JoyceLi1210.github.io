@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Linq;
 using System.Windows.Forms;
 
 
 
 namespace calculator
 {
-
+  
     public partial class calculator : Form
     {
+        bool pree = false;
 
         public calculator()
         {
@@ -19,6 +19,14 @@ namespace calculator
 
         private void Number_click(object sender, EventArgs e)
         {
+
+            if( pree  == true) 
+            {
+                preorder_print.Text = "";
+                postorder_print.Text = "";
+                ten_print.Text = "";
+                bin_print.Text = "";
+            }
             Button b = (Button)sender;
             formula_print.Text += b.Text;
         }
@@ -31,11 +39,7 @@ namespace calculator
                 Button b = (Button)sender;
                 formula_print.Text += b.Text;
             }
-            //0.000的限制
-            else
-            {
-                
-            }
+
         }
 
         private void Operation_click(object sender, EventArgs e)
@@ -67,6 +71,8 @@ namespace calculator
 
         private void Enter_click(object sender, EventArgs e)
         {
+            pree = true;
+
             //算式拆解
             string[] words = formula_print.Text.Split(' ');
             //放+-*/判斷優先權
@@ -177,6 +183,6 @@ namespace calculator
             // 二進位
             bin_print.Text = Convert.ToString(int.Parse(ten_print.Text), 2);
         }
-
+       
     }
 }
