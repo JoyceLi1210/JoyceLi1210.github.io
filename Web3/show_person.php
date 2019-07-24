@@ -19,7 +19,7 @@
         
         session_start();
         $username = $_SESSION["username"];
-
+        echo  "your information"."<br>"."<br>";
         if($result->num_rows > 0){        
             while($row = $result->fetch_assoc())
             {

@@ -94,7 +94,7 @@
             if($rows){  //0 false 1 true
                 //成功跳轉至show.html頁面
                 $_SESSION['username'] = $username;
-                header("refresh:0;url=choose.html");
+                header("refresh:0;url=choose.php");
                 exit();
             }
             else{

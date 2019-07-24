@@ -1,4 +1,5 @@
 <?php
+// 開啟伺服器連接
     //取得資料庫資訊
     $server="localhost";
     $db_username="root";
@@ -14,11 +15,12 @@
     }
     else {
         
-        $sql = "SELECT username,email,gender,color FROM info ";
-        $result = mysqli_query($con, $sql);
-      
+        $sql = "SELECT username,gender,color,email  FROM infor";
+        $rows = mysqli_query($con,$sql);      
+        $num = mysqli_num_rows($rows); 
+
+            
     }
-    
 ?>
  
 
@@ -29,28 +31,33 @@
 </head>
  
 <body>
-  
+    
+    <h1>會員資訊 </h1>
+    
     <table width="500" border="2">
       <tr>
         <td>Username</td>
-        <td>E-mail</td>
         <td>Gender</td>
         <td>Favorite color</td>
+        <td>E-mail</td>
       </tr>
       
     <?php
-        
-        for($i=1 ; $i<$result->num_rows ; $i++){
-            $rs=mysqli_fetch_row($result);
-    ?>
+    //for($i=1 ; $i <mysqli_num_rows($result); $i++){
+    //    for($i=1 ; $i<$result->num_rows ; $i++){
+        if ($num > 0) { // 顯示每一筆記錄  
+        for ($i = 0;$i < $num; $i++ ) {  
+            $row=mysqli_fetch_row($rows);
+    ?>        
           <tr>
-            <td><?php echo $rs["username"]?></td>
-            <td><?php echo $rs["email"]?></td>
-            <td><?php echo $rs["gender"]?></td>
-            <td><?php echo $rs["color"]?></td>
+            <td><?php echo $row[0]?></td>
+            <td><?php echo $row[1]?></td>
+            <td><?php echo $row[2]?></td>
+            <td><?php echo $row[3]?></td>         
           </tr>
     <?php
     }
+        }
     ?>
     </table>
 
