@@ -41,7 +41,7 @@
 
                 // 用 opendir() 開啟目錄，開啟失敗終止程式
                 $handle = @opendir($dir) or die("Cannot open " . $dir);
-
+                date_default_timezone_set("Asia/Taipei");
                 session_start();
                 
                 $i = 0;

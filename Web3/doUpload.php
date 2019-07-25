@@ -7,6 +7,7 @@
 
         $FileName = $_FILES['my_file']['name'];            
         $Size = ($_FILES['my_file']['size']/1024);
+        
         $UploadTime = date('Y-m-d H:i:s');
         $Tmp_Name = $_FILES['my_file']['tmp_name']; //暫存檔案名稱
 
