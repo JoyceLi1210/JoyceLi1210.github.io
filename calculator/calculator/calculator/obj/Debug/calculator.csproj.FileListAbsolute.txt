@@ -11,10 +11,9 @@ C:\Users\USER\Desktop\cal\calculator\calculator\obj\Debug\calculator.pdb
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.calculator.resources
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
-C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\bin\Debug\calculator.exe.config
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\bin\Debug\calculator.exe
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\bin\Debug\calculator.pdb
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.pdb
-C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\startbootstrap-agency-gh-pages\JoyceLi1210.github.io\calculator\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache

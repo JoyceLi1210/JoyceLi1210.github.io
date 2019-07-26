@@ -100,8 +100,10 @@ namespace calculator
                         {
                             if (check.Peek() == "*" | check.Peek() == "/")
                             {
-                                preorder_print.Text = " " + check.Peek() + preorder_print.Text;
-                                check.Pop();
+                                while (check.Count > 0) {
+                                    preorder_print.Text = " " + check.Peek() + preorder_print.Text;
+                                    check.Pop();
+                                }
                                 check.Push(words[len]);
                             }
                             else
@@ -183,6 +185,8 @@ namespace calculator
             // 二進位
             bin_print.Text = Convert.ToString(int.Parse(ten_print.Text), 2);
         }
+
+
        
     }
 }
