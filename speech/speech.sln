@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech", "speech\speech.csproj", "{CFF43032-7475-4A1C-9B93-11D2066FAF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF43032-7475-4A1C-9B93-11D2066FAF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF43032-7475-4A1C-9B93-11D2066FAF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF43032-7475-4A1C-9B93-11D2066FAF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF43032-7475-4A1C-9B93-11D2066FAF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA4C935D-70CA-4EB7-8282-C22AB8ED28CF}
+	EndGlobalSection
+EndGlobal
