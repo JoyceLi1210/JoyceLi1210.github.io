@@ -8,10 +8,12 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -25,6 +27,22 @@ public class MainActivity extends AppCompatActivity {
         mListView = (ListView) findViewById(R.id.list);
         mListView.setAdapter(new MyAdapter());
 
+
+        mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
+
+                Toast.makeText(
+                        MainActivity.this,
+                        "ID：" + id +
+                                "   選單文字："+ mListView.getItemAtPosition(position).toString(),
+                        Toast.LENGTH_LONG).show();
+
+                //TextView name = (TextView)view.findViewById(R.id.name);
+                //name1.setText(name.getText());
+            }
+        });
+
     }
     private class MyAdapter extends BaseAdapter {
 
@@ -37,13 +55,13 @@ public class MainActivity extends AppCompatActivity {
         //取得某一列的內容
         @Override
         public Object getItem(int position) {
-            return null;
+            return position;
         }
 
         //取得某一列的 id
         @Override
         public long getItemId(int position) {
-            return 0;
+            return position;
         }
 
         @Override
@@ -95,8 +113,6 @@ public class MainActivity extends AppCompatActivity {
                     holder.text3.setText("Height : 155 cm");
                     holder.text4.setText("Weight : 60 kg");
                     break;
-
-
             }
             return v;
         }
@@ -107,6 +123,7 @@ public class MainActivity extends AppCompatActivity {
             TextView text3;
             TextView text4;
         }
+
     }
 
 }
