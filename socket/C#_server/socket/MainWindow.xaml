@@ -11,7 +11,7 @@
             <ColumnDefinition Width="159*"/>
             <ColumnDefinition Width="635*"/>
         </Grid.ColumnDefinitions>
-        <TextBox Name="text1" HorizontalAlignment="Left" Height="266" Margin="52,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="672" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5">
+        <TextBox Name="text1" HorizontalAlignment="Left" Height="266" Margin="52,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="672" Grid.ColumnSpan="2" RenderTransformOrigin="0.5,0.5">
             <TextBox.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -21,7 +21,7 @@
                 </TransformGroup>
             </TextBox.RenderTransform>
         </TextBox>
-        <Button Content="開始監聽" HorizontalAlignment="Left" Margin="57,61,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="Button_Click" RenderTransformOrigin="-1.714,0.051"/>
+        <Button Content="開始監聽" HorizontalAlignment="Left" Margin="51,45,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="Button_Click" RenderTransformOrigin="-1.714,0.051"/>
 
 
     </Grid>
