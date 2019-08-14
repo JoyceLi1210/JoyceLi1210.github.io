@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity{
     Thread t;
     public static Handler mHandler = new Handler();
 
-    //ip.getText().toString()
-    //Integer.parseInt( port.getText().toString().replaceAll("[\\D]", ""))
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -58,14 +56,12 @@ public class MainActivity extends AppCompatActivity{
         button1.setOnClickListener(btnlistener);
         connect.setOnClickListener(con);
 
-
-
-
     }
     private View.OnClickListener con = new Button.OnClickListener(){
 
         @Override
         public void onClick(View v) {
+
             t = new Thread(readData);
             t.start();
             // 啟動執行緒
@@ -89,7 +85,8 @@ public class MainActivity extends AppCompatActivity{
                     bw.write(edtname.getText()+":"+edttext.getText()+"\n");
                     // 立即發送
                     bw.flush();
-                } catch (IOException e) {
+                }
+                catch (IOException e) {
                 }
                 // 將文字方塊清空
                 edttext.setText("");
@@ -114,8 +111,8 @@ public class MainActivity extends AppCompatActivity{
             InetAddress serverIp;
             try {
                 // 以內定(本機電腦端)IP為Server端
-                serverIp = InetAddress.getByName("192.168.43.155");
-                int serverPort = 5050 ;
+                serverIp = InetAddress.getByName(ip.getText().toString());
+                int serverPort =Integer.parseInt( port.getText().toString().replaceAll("[\\D]", "")) ;
                 clientSocket = new Socket(serverIp, serverPort);
 
                 // 取得網路輸入串流
