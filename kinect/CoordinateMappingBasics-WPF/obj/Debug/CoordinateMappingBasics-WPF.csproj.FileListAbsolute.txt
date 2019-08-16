@@ -1,0 +1,115 @@
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Documents\Visual Studio 2017\kinect SDK\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\column_row_固定位置\column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\HCI\Videos\Captures\HCI2019\CoordinateMappingBasics-WPF_column_row_固定位置\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Downloads\select\CoordinateMappingBasics-WPF\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+D:\Users\cleo\Desktop\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+D:\Users\cleo\Desktop\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+D:\Users\cleo\Desktop\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+D:\Users\cleo\Desktop\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\Users\cleo\Desktop\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+D:\Users\Cleo\Desktop\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\USER\Downloads\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb
