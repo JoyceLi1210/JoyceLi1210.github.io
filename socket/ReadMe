@@ -3,3 +3,12 @@
   server端: C#
   client端: Android Studio 
   
+  要求:
+    1. client端要能自行輸入IP and Port
+    2. 能傳送 and 接收server訊息
+  
+  備註:
+    We’re recommend that implement the client (Android App) first
+    you can use “nc”(netcat) on windows or “telnet” on macOS or Linux
+      
+  
