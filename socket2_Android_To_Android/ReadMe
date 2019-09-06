@@ -1,0 +1,14 @@
+實作socket 
+
+server端: android app
+client端: android app
+
+
+要求:
+  1.互相偵測連線狀態
+    ＊server端斷線, client端必須挑出訊息
+    ＊server端未連線, client端必須知道
+  2.皆能控制連線與斷線, 並能重複連線
+  3.接收與傳訊息
+  
+  
