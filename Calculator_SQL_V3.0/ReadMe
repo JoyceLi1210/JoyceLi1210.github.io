@@ -1,0 +1,8 @@
+程式語言: C#
+
+題目:
+  Use MySQL to create a table which stores the input data from user.
+  Decline the INSERT operation and alert a message if there exist an exact same in-order expression within your database.
+  Your calculator needs to support INSERT, DELETE, SELECT operations.
+  
+  
