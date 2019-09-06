@@ -1,0 +1,12 @@
+題目: kinect 實作手勢辨識
+
+  ＊靜態: 雙手平舉
+　＊動態: 雙手往上舉
+ 
+ 
+  參考範例：DiscreteGestureBasics-WPF
+  參考網址:
+    https://kheresy.wordpress.com/2015/08/22/visual-gesture-builder-tool-part-1/
+    https://kheresy.wordpress.com/2015/08/26/visual-gesture-builder-tool-part-2/
+    
+    
