@@ -1,0 +1,8 @@
+題目: Azure 語音辨識
+
+-----------------------------------------------------------
+If you say: What do you want to do?
+you will get answer : I want to sleep all day. 
+
+if you say others questions , your will get "i don't know."
+
