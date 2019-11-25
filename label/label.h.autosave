@@ -1,0 +1,29 @@
+#ifndef LABEL_H
+#define LABEL_H
+
+#include <QLabel>
+#include <string>
+#include <QPropertyAnimation>
+
+QT_BEGIN_NAMESPACE
+namespace Ui { class MainWindow; }
+QT_END_NAMESPACE
+
+class label
+{
+    public:
+        label();
+        ~label();
+        void showline(char const *line, int h, int w);
+        void action_line(char const *line, int ms, int h, int w);
+        void set_text();
+        void disappear(int ms);
+
+
+    private:
+        QLabel *myline;
+        QPropertyAnimation *animation;
+
+};
+
+#endif // LABEL_H
